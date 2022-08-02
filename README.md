@@ -37,6 +37,9 @@ Users should be able to:
 
 ## My process
 
+This was my hardest project. Not complex but long  (550 lines in css) Maybe it wasn't the best approach to use pure css.
+First, I struggled a lot with positioning divs. In the middle of the project, I realized the importance of grid and flexbox for that work, so I changed to these tools, this facilitated centering. But I will have to practice more of that subjects
+
 ### Built with
 
 - Semantic HTML5 markup
@@ -48,26 +51,19 @@ Users should be able to:
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-
+Have to plan before start to coding!!
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
+Have to use more flexbox and grid for lay-out and centering
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
+- The bible: (https://developer.mozilla.org/en-US/)
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Juanma Romero](https://github.com/juanma-romero)
+- Frontend Mentor - [@juanma-romero](https://www.frontendmentor.io/profile/juanma-romero)
+- Twitter - [@Juanma_romerox](https://twitter.com/Juanma_romerox)
 
