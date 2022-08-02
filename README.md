@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/juanma-romero/Fylo-landing-page)
-- Live Site URL: [Add live site URL here](https://juanma-romero.github.io/Fylo-landing-page/)
+- Solution URL: [Github repositorie](https://github.com/juanma-romero/Fylo-landing-page)
+- Live Site URL: [Live site](https://juanma-romero.github.io/Fylo-landing-page/)
 
 ## My process
 
