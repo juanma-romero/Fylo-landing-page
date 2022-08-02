@@ -150,7 +150,7 @@ p {
 }
 
 
-#paragraphSeconText  {
+.paragraphSeconText  {
     text-align: left;
     padding-left: 0%;
 }
